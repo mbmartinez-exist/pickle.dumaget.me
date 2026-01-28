@@ -2,7 +2,7 @@
 title: Courts in Dumaguete City
 description: 
 published: true
-date: 2026-01-28T12:26:44.849Z
+date: 2026-01-28T12:26:46.638Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-28T12:26:44.849Z
