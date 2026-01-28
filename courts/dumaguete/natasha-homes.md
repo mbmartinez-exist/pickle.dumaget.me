@@ -2,7 +2,7 @@
 title: Natasha Homes Pickleball Court
 description: 
 published: true
-date: 2026-01-28T12:49:13.870Z
+date: 2026-01-28T12:49:34.751Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-28T12:28:31.938Z
@@ -15,6 +15,7 @@ dateCreated: 2026-01-28T12:28:31.938Z
     <div class="pb-infobox-title">Natasha Homes Pickleball Court</div>
     <table class="pb-infobox-table">
       <tr><th>Location</th><td>Batinguel, Dumaguete City<br><small><a href="https://maps.google.com/?q=LAT,LNG">📍 View on Google Maps</a></small></td></tr>
+      <tr><th># of Courts</th><td>1</td>
       <tr><th>Established</th><td>2024</td></tr>
       <tr><th>Format</th><td>Round Robin → Semis</td></tr>
       <tr><th>Prize Fund</th><td>₱8,000</td></tr>
