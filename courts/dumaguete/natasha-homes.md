@@ -2,15 +2,17 @@
 title: Natasha Homes Pickleball Court
 description: 
 published: true
-date: 2026-01-28T12:37:27.085Z
+date: 2026-01-28T12:41:28.499Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-28T12:28:31.938Z
 ---
 
+# Natasha Homes Pickleball Court
+
 <div class="pb-infobox-wrapper">
   <div class="pb-infobox">
-    <div class="pb-infobox-title">Tournament Information</div>
+    <div class="pb-infobox-title">Natasha Homes Pickleball Court</div>
     <table class="pb-infobox-table">
       <tr><th>Location</th><td>Dumaguete City</td></tr>
       <tr><th>Established</th><td>2024</td></tr>
@@ -20,5 +22,4 @@ dateCreated: 2026-01-28T12:28:31.938Z
   </div>
 </div>
 
-# Natasha Homes Pickleball Court
 Your content here
